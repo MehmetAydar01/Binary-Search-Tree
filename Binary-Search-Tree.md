@@ -8,7 +8,7 @@
 
 ###  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] --> verilen dizimiz. root'un sağındaki ve solundaki sayıları bulmak icin :
 
-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 5 
+- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 5 
 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  2           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7 
 - &nbsp; &nbsp; &nbsp; 1    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4             &nbsp; &nbsp; &nbsp; &nbsp; 6                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8      
 
